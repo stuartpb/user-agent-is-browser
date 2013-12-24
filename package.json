@@ -1,0 +1,22 @@
+{
+  "name": "user-agent-is-browser",
+  "version": "0.0.0",
+  "description": "JS function to determine if a string is the User-Agent for a browser (even if it doesn't start with `Mozilla/`!)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stuartpb/user-agent-is-browser.git"
+  },
+  "keywords": [
+    "user-agent",
+    "sniffing"
+  ],
+  "author": "Stuart P. Bentley <stuart@testtrack4.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stuartpb/user-agent-is-browser/issues"
+  }
+}
